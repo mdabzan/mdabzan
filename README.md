@@ -1,7 +1,7 @@
 👋 Hi, I’m @mdabzan
 
 - 👀 I’m interested in 
-  - Developing scalable test automation frameworks for api and UI with the power of python libraries and tools.
+  - Developing scalable test automation frameworks for API's and UI with the power of python libraries and tools.
   - Develop REST api's using Flask and SQLAlchemy for the purpose of solving organizational problems.
   - Delivering the world class products under Agile world.
   
