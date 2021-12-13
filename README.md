@@ -9,7 +9,7 @@
   - Performance test tool using Gatling and scala
   - Develop API's with Django
   
-- 👽  Currently working as an SDET-2 in an IOT based startup
+- 👽  Currently working as an SDET-2 in an IOT based company
 
 - 📫 Reach me : md.abzan@gmail.com
 
